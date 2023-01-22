@@ -1,0 +1,6 @@
+name: SurvivalPlugin
+version: '${project.version}'
+main: net.skret.survivalplugin.SurvivalPlugin
+api-version: 1.19
+authors: [ MCreeper12731 ]
+description: Plugin for the survival server of Rage Official
